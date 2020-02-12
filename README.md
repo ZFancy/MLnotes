@@ -9,7 +9,7 @@ Personal learning notes for Machine Learning
   - [ ] pytorch深度学习拓展
 - [ ] 支持向量机
   - [ ] SVM简介及推导
-  - [ ] 凸优化及KTT条件简介
+  - [ ] 凸优化及KKT条件简介
   - [ ] SMO算法实现
 - [ ] 贝叶斯分类
   - [ ] 朴素贝叶斯分类
