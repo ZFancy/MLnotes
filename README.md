@@ -1,9 +1,9 @@
 # MLnotes
 Personal learning notes for Machine Learning 
 
-- [ ] 线性模型
-  - [ ] 回归分析
-- [ ] 决策树
+- [x] 线性模型
+  - [x] 回归分析
+- [x] 决策树
   - [x] 决策树的介绍及构建
 - [ ] 神经网络
   - [ ] pytorch深度学习拓展
