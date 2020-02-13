@@ -4,7 +4,7 @@ Personal learning notes for Machine Learning
 - [ ] 线性模型
   - [ ] 回归分析
 - [ ] 决策树
-  - [ ] 决策树的介绍及构建
+  - [x] 决策树的介绍及构建
 - [ ] 神经网络
   - [ ] pytorch深度学习拓展
 - [ ] 支持向量机
@@ -19,7 +19,7 @@ Personal learning notes for Machine Learning
   - [ ] LightGBM
 - [ ] 聚类
 - [ ] 降维及度量学习
-  - [ ] KNN
+  - [x] KNN
   - [ ] PAC
 - [ ] 计算学习理论
 - [ ] 概率图模型
