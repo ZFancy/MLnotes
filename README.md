@@ -5,12 +5,12 @@ Personal learning notes for Machine Learning
   - [x] 回归分析
 - [x] 决策树
   - [x] 决策树的介绍及构建
-- [ ] 神经网络
-  - [ ] pytorch深度学习拓展
+- [x] 神经网络
+  - [x] pytorch深度学习拓展
 - [ ] 支持向量机
-  - [ ] SVM简介及推导
+  - [x] SVM简介及推导
   - [ ] 凸优化及KKT条件简介
-  - [ ] SMO算法实现
+  - [ ] SMO算法
 - [ ] 贝叶斯分类
   - [ ] 朴素贝叶斯分类
 - [ ] 集成学习
@@ -18,17 +18,8 @@ Personal learning notes for Machine Learning
   - [ ] XGBoost
   - [ ] LightGBM
 - [ ] 聚类
-- [ ] 降维及度量学习
+- [x] 降维及度量学习
   - [x] KNN
-  - [ ] PAC
-- [ ] 计算学习理论
-- [ ] 概率图模型
-- [ ] 半监督学习
-- [ ] 规则学习
-- [ ] 强化学习
+  - [x] PAC
+- [x] PageRank
 
-
-
-笔记框架主要参考：
-
-《机器学习》周志华
